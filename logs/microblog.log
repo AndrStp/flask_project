@@ -55,3 +55,5 @@ Traceback (most recent call last):
     if username.data != self.original_username:
 NameError: name 'username' is not defined
 2021-11-16 16:43:04,819 INFO: Microblog startup [in /Users/andrey/Projects/flask_project/app/__init__.py:53]
+2021-11-16 17:27:11,921 INFO: Microblog startup [in /Users/andrey/Projects/flask_project/app/__init__.py:53]
+2021-11-16 17:27:25,134 INFO: Microblog startup [in /Users/andrey/Projects/flask_project/app/__init__.py:53]
